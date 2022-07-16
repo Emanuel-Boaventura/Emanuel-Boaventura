@@ -11,11 +11,11 @@
 ## 🔭 Techs
 - HTML & CSS
 - Javascript
-- Typescript 
-- React.JS
 
 ### Other langs I've done some things
 - Java (IFMT Technical Course) 
 
-## 🌱 I'm learning
+## 🌱 I intend to learn
+- TypeScript
+- React.js
 - Ruby
