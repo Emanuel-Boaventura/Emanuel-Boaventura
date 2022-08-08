@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emanuel Boaventura</h1>
-<h3 align="center">A Brazilian Web Developer with HTML, CSS and TypeScript</h3>
+<h3 align="center">A Brazilian Web Developer with HTML, CSS and Javascript</h3>
 
 ## Some facts about me 👇
 
