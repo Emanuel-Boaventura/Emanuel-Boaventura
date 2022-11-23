@@ -10,13 +10,14 @@
 
 ## 🔭 Techs
 - HTML & CSS
-- Javascript
+- TypeScript
+- ReactJS
+- MongoDB
+- MySql
 
 ### Other langs I've done some things
 - Java (IFMT Technical Course) 
 
 ## 🌱 I intend to learn
-- TypeScript
-- React.js
 - Ruby
 - PHP
