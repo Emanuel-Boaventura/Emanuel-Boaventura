@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emanuel Boaventura</h1>
-<h3 align="center">A Brazilian Web Developer with HTML, CSS and Javascript</h3>
+<h3 align="center">A Brazilian Web Developer with ReactJS, TypeScript and Sass</h3>
 
 ## Some facts about me 👇
 
@@ -9,15 +9,13 @@
 - My hobbies are watching some anime and play a lot of games on my computer.
 
 ## 🔭 Techs
-- HTML & CSS
+- Sass & styled-components
 - TypeScript
 - ReactJS
 - MongoDB
 - MySql
 
-### Other langs I've done some things
-- Java (IFMT Technical Course) 
-
 ## 🌱 I intend to learn
 - Ruby
 - PHP
+- NextJS
