@@ -1,21 +1,15 @@
 <h1 align="center">Hi 👋, I'm Emanuel Boaventura</h1>
 <h3 align="center">A Brazilian Web Developer</h3>
 
-## Some facts about me 👇
+## About me 👇
 
-- In 2019, I finished my high school at Instituto Federal de Mato Grosso, doing integrated with the IT technical course.
-- I was studying for a public contest but I ended up deciding to take a new chance on the tech area again.
-- I have a associate degree in Logistics.
-- My hobbies are watching some anime and play a lot of games on my computer.
+Full Stack Developer with a focus on Front-End and 2 years of experience in the field, using React with Next.js, Tailwind, and Node.js on the back-end. I've developed applications that store individual registrations in services, allowing users to view the data of registered individuals for their control and management. Additionally, they provide graphical representations of registrations to facilitate understanding of the quantity and characteristics of registered individuals.
 
 ## 🔭 Techs
-- Sass, styled-components, Stitches
-- ReactJS, NextJS, TypeScript
-- MongoDB
-- MySql
+- ReactJS, NextJS, TypeScript and NodeJS
+- Tailwind, Mantine, Sass and styled-components.
+- MongoDB and MySql
 
 ## 🌱 I intend to learn
 - Ruby
 - Elixir
-- AdonisJS
-- Remix
