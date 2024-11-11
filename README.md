@@ -3,13 +3,24 @@
 
 ## About me 👇
 
-Full Stack Developer with a focus on Front-End and 2 years of experience in the field, using React with Next.js, Tailwind, and Node.js on the back-end. I've developed applications that store individual registrations in services, allowing users to view the data of registered individuals for their control and management. Additionally, they provide graphical representations of registrations to facilitate understanding of the quantity and characteristics of registered individuals.
+I am a Fullstack developer with experience in all areas, Frontend, Backend and mobile development. Specialized in building applications based on JavaScript using TypeScript. The main frameworks I use are: React and Next.js on the front end, Node.js with Express, NestJS and AdonisJS on the back end, and React Native with Expo for mobile development.
 
 ## 🔭 Techs
-- ReactJS, NextJS, TypeScript and NodeJS
-- Tailwind, Mantine, Sass and styled-components.
-- MongoDB and MySql
+- JavaScript and TypeScript.
+- React, Next.js and AngularJS.
+- Mantine, Material UI, Radix Themes, Chakra UI, Shadcn, SASS, Tailwindcss, Styled Components and CSS Modules.
+- Recharts and ApexCharts.
+- Storybook.
+- SWR and React Query.
+- Jest and React Testing Library.
+- NodeJS, Expressm NestJS and AdonisJS.
+- Yup, Zod and VineJS.
+- MyQSL, PostgreSQL and MongoDB.
+- Docker.
+- Git, Github and GitLab.
+- React Native and Expo.
 
 ## 🌱 I intend to learn
 - Ruby
 - Elixir
+- Vue.js
