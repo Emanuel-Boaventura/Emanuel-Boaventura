@@ -7,7 +7,7 @@ I am a Fullstack developer with experience in all areas, Frontend, Backend and m
 
 ## 🔭 Techs
 - JavaScript and TypeScript.
-- React, Next.js and AngularJS.
+- React, Next.js, Vue.js and AngularJS.
 - Mantine, Material UI, Radix Themes, Chakra UI, Shadcn, SASS, Tailwindcss, Styled Components and CSS Modules.
 - Recharts and ApexCharts.
 - Storybook.
@@ -23,4 +23,3 @@ I am a Fullstack developer with experience in all areas, Frontend, Backend and m
 ## 🌱 I intend to learn
 - Ruby
 - Elixir
-- Vue.js
